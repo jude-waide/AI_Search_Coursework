@@ -1,0 +1,7 @@
+USER = jgnt42 (Jude Waide),
+ALGORITHM CODE = GA, NAME OF CITY-FILE = AISearchfile048.txt,
+SIZE = 48, TOUR LENGTH = 12175,
+2,16,38,33,4,36,31,45,42,24,40,19,30,0,5,20,1,23,7,41,43,37,28,22,27,26,32,11,47,14,13,17,3,10,34,39,9,44,29,25,12,6,8,18,35,15,21,46,
+NOTE = The parameter values are 'max_it' = 20000 and 'pop_size' = 48.
+RUN-TIME = 41.7 seconds.
+CERTIFICATE = 1411.

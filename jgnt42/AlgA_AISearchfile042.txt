@@ -1,0 +1,16 @@
+USER = jgnt42 (Jude Waide),
+ALGORITHM CODE = AC, NAME OF CITY-FILE = AISearchfile042.txt,
+SIZE = 42, TOUR LENGTH = 1203,
+41,38,11,21,16,20,7,37,33,23,9,12,13,17,35,10,14,6,24,18,0,29,8,1,28,5,32,25,40,39,22,15,26,2,19,36,4,34,3,27,31,30,
+NOTE = Finished after 49999 iterations
+Additional parameters:
+evaporationRate - 0.11
+alpa - 1
+w - 6
+beta - 2
+num_processes - 8
+gamma - 0.3
+smoothingThreshold - 0.8
+The parameter values are 'max_it' = 50000 and 'num_ants' = 42.
+RUN-TIME = 630.1 seconds.
+CERTIFICATE = 1277.
